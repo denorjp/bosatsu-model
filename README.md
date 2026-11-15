@@ -12,3 +12,18 @@ The model proposes four core components:
 The project is based on first-person observation, introspection, and recursive analysis.
 
 Status: Draft v1.0
+
+## Origin
+
+Bosatsu Model originated as a personal research project
+developed through introspection, observation,
+and recursive analysis.
+
+The model is published as a working hypothesis for
+human cognition and adaptive intelligence.
+
+The author welcomes experimentation,
+implementation, and extension of the model.
+
+If possible, please acknowledge the Bosatsu Model
+project as the original source.
