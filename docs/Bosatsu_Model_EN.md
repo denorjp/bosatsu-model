@@ -1,11 +1,19 @@
-# Bosatsu Model v1.0
-# Draft Specification
+# Bosatsu Model v1.1
 
----
+# Working Hypothesis Specification
 
 ## Introduction
 
-Bosatsu Model is a hypothetical cognitive architecture designed to explain human cognition, learning, maturity, and adaptation.
+Bosatsu Model is a hypothetical cognitive architecture designed to explain:
+
+- Cognition
+- Learning
+- Adaptation
+- Maturity
+- Wisdom
+- Compassion
+
+through a common structural framework.
 
 The model was developed through:
 
@@ -13,16 +21,33 @@ The model was developed through:
 - Meditation
 - Observation of flow states
 - Recursive self-analysis
+- AI-assisted structural exploration
 
 Bosatsu Model is not an established scientific theory.
 
-It is a working hypothesis intended for ongoing observation, discussion, refinement, and implementation.
+It is a working hypothesis intended for continuous observation, discussion, implementation, and refinement.
 
 ---
 
 # Purpose
 
-The purpose of Bosatsu Model is to identify a minimal set of components capable of explaining human cognition and behavior through a common structure.
+The purpose of Bosatsu Model is to identify a minimal set of components capable of explaining human cognition and behavior through a unified structure.
+
+The model attempts to explain:
+
+- Learning
+- Emotion
+- Motivation
+- Ego
+- Suffering
+- Maturity
+- Wisdom
+- Compassion
+- Flow States
+- Awakening
+- Adaptive Intelligence
+
+using a common architecture.
 
 ---
 
@@ -32,8 +57,7 @@ Humans do not directly perceive reality itself.
 
 Humans perceive a world model constructed through neural circuits.
 
----
-
+```text
 Reality
 
 ↓
@@ -51,8 +75,7 @@ World Model
 ↓
 
 Perception
-
----
+```
 
 Therefore,
 
@@ -62,27 +85,29 @@ but reality interpreted through a world model.
 
 ---
 
-# Version 1.0 Hypothesis
+# Version 1.1 Hypothesis
 
-Bosatsu Model currently proposes four primary components of cognition:
+Bosatsu Model currently proposes the following major components:
 
-1. Life Maintenance System
-2. Neural Circuits
-3. Dynamic Weighting
-4. World Model
+- Life Maintenance System
+- Neural Circuits
+- Memory
+- World Model
+- Balance
+- Activity Allocation
+- Ego Function
+- Ego Story
+- Consciousness
 
 ---
 
 # Component 1
+
 # Life Maintenance System
 
 ## Definition
 
-The Life Maintenance System is the foundational system responsible for survival, safety, recovery, and continuity.
-
----
-
-## Primary Functions
+The Life Maintenance System is the foundational system responsible for:
 
 - Survival
 - Safety
@@ -91,9 +116,18 @@ The Life Maintenance System is the foundational system responsible for survival,
 
 ---
 
+## Primary Functions
+
+- Survival
+- Protection
+- Recovery
+- Continuation
+
+---
+
 ## Characteristics
 
-When weighting shifts toward life maintenance:
+When life maintenance becomes dominant:
 
 - Perception narrows
 - Defensive behavior increases
@@ -105,6 +139,7 @@ These reactions are considered adaptive rather than pathological.
 ---
 
 # Component 2
+
 # Neural Circuits
 
 ## Definition
@@ -113,7 +148,12 @@ Neural Circuits are learned reaction patterns formed through experience and lear
 
 In Bosatsu Model, the term does not necessarily refer to biological neural structures.
 
-It is used as a modeling abstraction representing learned patterns of perception, reaction, memory, emotion, or behavior.
+It is used as a modeling abstraction representing:
+
+- Knowledge
+- Skills
+- Reactions
+- Behavioral patterns
 
 ---
 
@@ -121,11 +161,11 @@ It is used as a modeling abstraction representing learned patterns of perception
 
 - Experience
 - Learning
-- Memory
-- Habits
-- Emotional Conditioning
+- Habit
+- Emotion
 - Reinforcement
 - Trauma
+- Repetition
 
 ---
 
@@ -133,154 +173,531 @@ It is used as a modeling abstraction representing learned patterns of perception
 
 Neural Circuits determine:
 
-> What can be done.
-
----
-
-## Neural Circuit Transformation
-
-Neural Circuit Transformation refers to structural changes in learned reaction patterns.
-
-Typical time scale:
-
-Days to years.
+**What can be done.**
 
 ---
 
 # Component 3
-# Dynamic Weighting
+
+# Memory
 
 ## Definition
 
-Dynamic Weighting is a parameter that determines the amount of activation allocated to neural circuits.
+Memory represents stored individual experiences.
+
+Memory is concrete.
+
+Memory is an instance.
+
+---
+
+## Examples
+
+- Seeing a corn plant in a supermarket
+- Seeing a corn plant in a field
+- A conversation yesterday
+- A specific event
+
+---
+
+## Characteristics
+
+Memory is specific.
+
+Memory is not an abstraction.
+
+Memory is different from the World Model.
+
+---
+
+# Component 4
+
+# World Model
+
+## Definition
+
+A World Model is an abstract conceptual network constructed from memories.
+
+The World Model is used for:
+
+- Recognition
+- Interpretation
+- Prediction
+- Simulation
+- Decision-making
+
+---
+
+## Difference Between Memory and World Model
+
+Memory is concrete.
+
+World Model is abstract.
+
+Example:
+
+```text
+Corn A
+
+Corn B
+
+Corn C
+
+↓
+
+Common Pattern Detection
+
+↓
+
+Concept of Corn
+```
+
+This process creates an abstract concept within the World Model.
 
 ---
 
 ## Role
 
-Dynamic Weighting determines:
+The World Model determines:
 
-> What is prioritized now.
+- What can be perceived
+- What can be predicted
+
+---
+
+# Component 5
+
+# Balance
+
+## Definition
+
+Balance is a balance-restoration demand circuit.
+
+It is not the problem itself.
+
+It is the tendency to resolve the problem.
+
+---
+
+## Examples
+
+```text
+Hunger
+
+↓
+
+Need to eat
+```
+
+```text
+Unfinished task
+
+↓
+
+Need to complete
+```
+
+```text
+Loneliness
+
+↓
+
+Need for connection
+```
 
 ---
 
 ## Characteristics
 
-Weighting changes dynamically.
+Balance may be:
 
-Examples include:
+- Conscious
+- Unconscious
 
-- Hunger
-- Romantic Attraction
-- Fear
-- Anger
-- Focus
-- Flow States
-- Impulsive Decisions
+Unconscious balances may function as hidden motivations.
 
 ---
 
-## Weight Values
+## Hypothesis
 
-Positive
+The magnitude of imbalance influences motivational strength.
 
-→ Activation
+The stronger the imbalance,
 
-Negative
-
-→ Suppression
-
-Zero
-
-→ No Influence
+the more activity tends to be allocated toward resolution.
 
 ---
 
-## Open Question
+# Component 6
 
-The mechanism that determines weighting remains undefined.
-
----
-
-# Component 4
-# World Model
+# Activity Allocation
 
 ## Definition
 
-A World Model is a dynamic internal model used for:
+Activity Allocation represents the amount of resources allocated to neural circuits.
 
-- Perception
-- Prediction
-- Interpretation
-- Decision-Making
+---
+
+## Resources May Include
+
+- Attention
+- Time
+- Mental effort
+- Physical effort
+- Cognitive processing
+
+---
+
+## Role
+
+Activity Allocation determines:
+
+**What is processed now.**
+
+---
+
+## Hypothesis
+
+Possible sources of Activity Allocation include:
+
+- Life Maintenance System
+- Ego
+- Consciousness
+
+This remains unresolved.
+
+---
+
+# Component 7
+
+# Ego Function
+
+## Definition
+
+Ego Function is the mechanism responsible for self-identification.
+
+Ego Function is necessary for maintaining an individual identity.
+
+It is distinct from Ego Story.
 
 ---
 
 ## Contents
 
-A World Model may contain:
-
-- Memories
-- Learning
-- Behavioral Patterns
-- Self Models
-- Models of Others
-- Social Models
-- Future Predictions
-- Hopes
-- Fears
-- Ideals
-- Beliefs
+- Name
+- Personal history
+- Preferences
+- Characteristics
+- Skills
+- Behavioral tendencies
+- Reaction tendencies
 
 ---
 
 ## Characteristics
 
-The World Model is continuously updated.
+Ego Function maintains continuity of self.
 
-Even interpretations of past events can change.
-
----
-
-## Time Axis
-
-A World Model may include:
-
-- The 1-year-old self
-- The 10-year-old self
-- The 20-year-old self
-- The present self
-- The future self
+Ego Function may remain stable even when Ego Story changes significantly.
 
 ---
 
-## Spatial Axis
+## Examples
 
-A World Model may include:
+```text
+I am John.
 
-- Self
-- Family
-- Community
-- Society
-- Nation
-- Humanity
-- Life as a Whole
+I like motorcycles.
+
+I enjoy programming.
+
+I tend to think visually.
+```
+
+These are examples of Ego Function rather than Ego Story.
 
 ---
 
-## Consciousness
+# Component 8
 
-In Bosatsu Model,
+# Ego Story
 
-Consciousness refers to the currently accessible portion of the World Model.
+## Definition
 
-The term is used functionally rather than metaphysically.
+Ego Story is a self-interpretation model formed through adaptation to the environment.
+
+---
+
+## Roles
+
+- Consistency maintenance
+- Social adaptation
+- Self-explanation
+- Cognitive load reduction
+
+---
+
+## Examples
+
+```text
+I must succeed.
+
+I should be accepted.
+
+I must not fail.
+
+I am this kind of person.
+```
+
+---
+
+## Characteristics
+
+Ego Story prioritizes consistency over truth.
+
+---
+
+## Hypothesis
+
+Ego Story may be viewed as a World Model about oneself.
+
+```text
+World Model
+=
+Abstraction of reality
+
+Ego Story
+=
+Abstraction of self
+```
+
+---
+
+## Relationship to Suffering
+
+Many forms of suffering originate not from Ego Function,
+
+but from excessive identification with Ego Story.
+
+---
+
+# Component 9
+
+# Consciousness
+
+## Definition
+
+Current hypothesis:
+
+Consciousness is the function responsible for:
+
+- Observation
+- Comparison
+- Abstraction
+- Pattern Detection
+- World-Model Construction
+
+---
+
+## Difference Between Consciousness and World Model
+
+The World Model is knowledge.
+
+Consciousness is not knowledge itself.
+
+```text
+World Model
+=
+Abstracted knowledge
+
+Consciousness
+=
+The process that compares,
+discovers structure,
+and updates knowledge
+```
+
+---
+
+## Characteristics
+
+Consciousness appears to discover structures rather than merely store information.
+
+---
+
+## Hypothesis
+
+In some cases,
+
+a direction or insight may emerge before explicit reasoning becomes available.
+
+```text
+Direction
+
+↓
+
+Explanation
+```
+
+rather than
+
+```text
+Explanation
+
+↓
+
+Direction
+```
+
+may occur.
+
+--
+# World Model Formation Hypothesis
+
+## Fundamental Process
+
+Bosatsu Model proposes that World Models are formed through the following process:
+
+```text
+Experience
+
+↓
+
+Memory
+
+↓
+
+Comparison
+
+↓
+
+Pattern Detection
+
+↓
+
+Abstraction
+
+↓
+
+World Model Formation
+```
+
+---
+
+## Abstraction
+
+Abstraction is the extraction of common structures from multiple memories.
+
+---
+
+## Example
+
+```text
+Corn seen in a supermarket
+
+Corn seen in a field
+
+Steamed corn
+
+↓
+
+Common Structure Detection
+
+↓
+
+Formation of the Concept "Corn"
+```
+
+---
+
+## Characteristics
+
+Learning is not only the discovery of differences.
+
+Abstraction also emerges from recognizing sameness.
+
+```text
+Difference
+
+↓
+
+Learning
+
+Sameness
+
+↓
+
+Abstraction
+```
+
+---
+
+# Prediction Hypothesis
+
+## Definition
+
+Prediction is the ability to estimate future outcomes using the World Model.
+
+---
+
+## Characteristics
+
+Predictions are not generated directly from memories.
+
+Predictions are generated from abstract concepts contained within the World Model.
+
+---
+
+## Example
+
+```text
+This resembles corn
+
+↓
+
+Probably edible
+
+↓
+
+Probably sweet
+
+↓
+
+Probably grown in a field
+```
+
+---
+
+## Relationship to Imagination
+
+Imagination and creativity may be interpreted as the recombination of structures contained within the World Model.
 
 ---
 
 # Fundamental Loop
 
 The core of Bosatsu Model is a recursive learning loop.
+
+```text
+Experience
+
+↓
+
+Memory
+
+↓
+
+Comparison
+
+↓
+
+Abstraction
+
+↓
+
+World Model
+
+↓
 
 Prediction
 
@@ -294,194 +711,170 @@ Result
 
 ↓
 
-Error
-
-↓
-
 Feedback
 
 ↓
 
-Update
+Neural Circuit Transformation
 
 ↓
 
-Prediction
+World Model Update
+
+↓
+
+Re-Prediction
+```
 
 ---
 
-Learning, growth, maturity, conflict, and adaptation are assumed to emerge through this recursive process.
-
----
-
-# Derived Concepts
-
-The following concepts are considered emergent phenomena arising from the four core components:
-
-- Ego
-- Emotion
-- Unresolved Responses
-- Metacognition
-- Codependency
-- Victim Mentality
-- Cult Dynamics
-- Maturity
-- Wisdom
-- Compassion
-- Strength (Riki)
-- Awakening
-
----
-
-# Ego
+# Emotion Hypothesis (Tentative)
 
 ## Definition
 
-The Ego is a compressed self-explanation model within the World Model.
+Emotion remains an unresolved area of the model.
+
+Current observations suggest that multiple sources may exist.
 
 ---
 
-## Roles
-
-- Consistency Maintenance
-- Self Identification
-- Social Adaptation
-- Reduction of Cognitive Load
-
----
-
-## Characteristics
-
-The Ego prioritizes consistency over truth.
-
----
-
-# Emotion
-
-Emotion is a state-reporting signal.
+## Sensation-Based Emotions
 
 Examples:
 
-Hunger
+```text
+Startle
 
-→ Life Maintenance Demand
+↓
 
-Fear
+Surprise
 
-→ Threat Detection
+Excitement
 
-Anger
+↓
 
-→ Boundary Violation Detection
+Joy
+
+Crying
+
+↓
 
 Sadness
-
-→ Loss Detection
-
-Curiosity
-
-→ Exploration Demand
+```
 
 ---
 
-Emotions are not commands.
+## Ego Story-Based Emotions
 
-They are feedback signals.
+Examples:
 
----
+```text
+Frustration
 
-# Unresolved Responses
+Shame
 
-Normal Integration
+Loneliness
 
-Sensation
-
-↓
-
-Emotion
-
-↓
-
-Meaning Formation
-
-↓
-
-World Model Integration
+Jealousy
+```
 
 ---
 
-Unresolved Response
+## Consciousness-Related Emotional States
 
-Sensation
+Examples:
 
-↓
+```text
+Awe
 
-Emotion
+Wonder
 
-↓
+Inspiration
 
-Interruption
+Beauty
 
-↓
-
-Integration Failure
+Deep Emotion
+```
 
 ---
 
-Unresolved Responses may contribute to:
+## Current Status
 
-- Anxiety
-- Anger
-- Projection
-- Codependency
-- Victim Mentality
+The Emotion Hypothesis is incomplete in Version 1.1.
 
 ---
 
 # Metacognition
 
-Metacognition is the ability to observe one's own ego narratives.
+## Definition
 
-Example:
+Metacognition is the ability to observe one's own neural circuits and ego narratives.
 
-"I am a failure."
+---
+
+## Example
+
+```text
+I am a failure
 
 ↓
 
-"The thought that I am a failure is occurring."
+The thought
+"I am a failure"
+is occurring
+```
 
 ---
 
 # Maturity
 
-Maturity is the ability to update the World Model when it is incorrect.
+## Definition
+
+Maturity is the ability to update a World Model when it is incorrect.
 
 ---
 
+```text
 Maturity
 
-≠ Fixation
+≠
 
----
+Fixation
 
 Maturity
 
-= Capacity for Updating
+=
+
+Capacity for Updating
+```
 
 ---
 
 # Wisdom
 
-Wisdom is the ability to observe what is occurring.
+## Definition
+
+Wisdom is the ability to perceive structures and discover more appropriate directions.
+
+---
+
+## Hypothesis
+
+Wisdom is not primarily knowledge.
+
+Wisdom is closer to structural recognition.
 
 ---
 
 # Compassion
 
+## Definition
+
 Compassion is not primarily an emotion.
 
-It is the expansion of the range of entities included in one's benefit function.
+Compassion is the expansion of the range of entities included within one's benefit function.
 
+```text
 Self
 
 ↓
@@ -503,14 +896,43 @@ Humanity
 ↓
 
 Life as a Whole
+```
 
 ---
 
 # Strength (Riki)
 
+## Definition
+
 Strength is not willpower.
 
-It is efficient action resulting from reduced internal conflict.
+Strength is efficient action that emerges when internal conflict decreases.
+
+---
+
+# Flow States
+
+## Hypothesis
+
+Flow States occur when Ego Story activity decreases and Consciousness operates in smooth coordination with learned neural circuits.
+
+---
+
+```text
+Reduced Ego Story Activity
+
+↓
+
+Consciousness Dominance
+
+↓
+
+Activation of Skilled Circuits
+
+↓
+
+Flow State
+```
 
 ---
 
@@ -518,22 +940,25 @@ It is efficient action resulting from reduced internal conflict.
 
 ## Stage One
 
-Relativization of the Ego.
+Relativization of Ego Story.
 
-Understanding:
-
-Ego
+```text
+Ego Story
 
 ≠
 
 Reality
+```
+
+The individual understands that personal narratives are interpretations rather than reality itself.
 
 ---
 
 ## Stage Two
 
-Integration of Unresolved Responses.
+Integration of previously unresolved sensations and emotions.
 
+```text
 Sensation Recovery
 
 ↓
@@ -551,6 +976,27 @@ World Model Update
 ↓
 
 World Model Expansion
+```
+
+---
+
+# Synchronicity
+
+## Current Status
+
+Synchronicity remains an unresolved area within Bosatsu Model.
+
+---
+
+## Open Questions
+
+Does prediction depend solely on an individual's World Model?
+
+Do unknown forms of sensory input exist?
+
+Can interaction with other people or the environment influence prediction in ways not yet understood?
+
+Currently, these questions remain unanswered.
 
 ---
 
@@ -561,38 +1007,63 @@ Bosatsu Model may be applicable to:
 - AI Agents
 - NPCs
 - Personality Simulation
-- Embodied AI
+- Adaptive Cognitive Systems
 
 ---
 
-Potential Mapping
+## Possible Mapping
 
+```text
 Life Maintenance System
-
-→ Objective Function
+↓
+Objective Function
 
 Neural Circuits
+↓
+Learned Modules
 
-→ Learned Modules
-
-Dynamic Weighting
-
-→ Activation Allocation
+Memory
+↓
+Episodic Memory
 
 World Model
+↓
+Conceptual Network
 
-→ Predictive Simulator
+Balance
+↓
+Priority Generation
+
+Activity Allocation
+↓
+Resource Allocation
+
+Ego Function
+↓
+Self Identification
+
+Ego Story
+↓
+Self Narrative
+
+Consciousness
+↓
+World Model Construction and Update
+```
 
 ---
 
 # Open Questions
 
-- What determines Dynamic Weighting?
-- What is the minimum unit of a Neural Circuit?
-- What is the internal structure of a World Model?
-- How are value functions formed?
-- Can Bosatsu Model be implemented in AI systems?
-- Are four components sufficient?
+The following topics remain unresolved:
+
+- Activity Allocation mechanisms
+- Minimum unit of a Neural Circuit
+- Emotion generation mechanisms
+- Internal structure of the World Model
+- Boundary between Consciousness and World Model
+- Synchronicity hypothesis
+- Feasibility of AI implementation
 
 ---
 
@@ -602,6 +1073,7 @@ Bosatsu Model itself is considered a World Model.
 
 Therefore, the model is expected to evolve through:
 
+```text
 Prediction
 
 ↓
@@ -615,13 +1087,12 @@ Error
 ↓
 
 Update
-
----
+```
 
 Continuous revision is an intended feature of the model.
 
 ---
 
-Bosatsu Model v1.0
+Bosatsu Model v1.1
 
-Draft Specification
+Working Hypothesis Specification
