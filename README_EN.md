@@ -1,24 +1,30 @@
-# Bosatsu Model
+## Bosatsu Model
 
-A Working Hypothesis for Human Cognition, Learning, Maturity, and Adaptive Intelligence
+A Working Hypothesis for Human Cognition, Learning, Adaptive Intelligence, and World-Model Formation
 
----
+### Overview
 
-## Overview
+Bosatsu Model is a cognitive architecture hypothesis developed through first-person observation, introspection, meditation, flow-state observation, recursive analysis, and AI-assisted model refinement.
 
-Bosatsu Model is a cognitive architecture proposal developed through first-person observation, introspection, meditation, flow-state observation, and recursive analysis.
+The model attempts to explain how humans:
 
-The model attempts to identify the minimum set of components necessary to explain human cognition, behavior, learning, maturity, and adaptation.
+- Learn
+- Construct internal world models
+- Develop identity
+- Adapt to their environment
+- Experience growth, suffering, wisdom, and maturity
+
+using a small number of interconnected components.
 
 Bosatsu Model is not an established scientific theory.
 
-It is a working hypothesis intended for discussion, refinement, implementation, and experimentation.
+It is a working hypothesis intended for discussion, experimentation, implementation, and refinement.
 
 ---
 
-## Core Components
+## Core Components (Ver.1.1)
 
-The current model proposes four primary components:
+The current model proposes the following primary components:
 
 ### 1. Life Maintenance System
 
@@ -29,44 +35,162 @@ Responsible for:
 - Recovery
 - Continuity
 
-### 2. Neural Circuits
-
-Learned reaction patterns formed through:
-
-- Experience
-- Memory
-- Learning
-- Habits
-- Emotional conditioning
-
-Neural circuits determine:
-
-> What can be done.
-
-### 3. Dynamic Weighting
-
-A parameter that determines how activation is allocated among neural circuits.
-
-Weighting determines:
-
-> What is prioritized now.
-
-### 4. World Model
-
-A dynamically updated internal model used for:
-
-- Perception
-- Interpretation
-- Prediction
-- Decision-making
-
-The world model determines:
-
-> What can be perceived.
+This is the foundational layer that supports all higher functions.
 
 ---
 
-## Fundamental Loop
+### 2. Neural Circuits
+
+Patterns formed through:
+
+- Experience
+- Learning
+- Repetition
+- Feedback
+
+Neural circuits determine:
+
+**What can be done.**
+
+---
+
+### 3. Memory
+
+Stores concrete experiences and events.
+
+Examples:
+
+- A specific conversation
+- A specific place
+- A specific experience
+
+Memory represents:
+
+**Individual instances.**
+
+---
+
+### 4. World Model
+
+An abstracted internal model constructed from memories.
+
+Used for:
+
+- Recognition
+- Interpretation
+- Prediction
+- Simulation
+- Decision-making
+
+World Model determines:
+
+**What can be perceived and predicted.**
+
+---
+
+### 5. Balance (Formerly Dynamic Weighting)
+
+The model proposes that cognition is driven by the emergence of imbalances.
+
+An imbalance creates a persistent tendency toward resolution.
+
+Balance determines:
+
+**What becomes important now.**
+
+---
+
+### 6. Activity Allocation
+
+Represents the amount of attention, effort, time, and cognitive resources allocated toward neural circuits.
+
+Activity Allocation determines:
+
+**What is actively processed.**
+
+---
+
+### 7. Ego Function
+
+Responsible for:
+
+- Self-identification
+- Personal continuity
+- Individual characteristics
+
+Examples:
+
+- My name
+- My preferences
+- My personal history
+
+Ego Function determines:
+
+**Who I am as an individual.**
+
+---
+
+### 8. Ego Story
+
+A self-narrative constructed through adaptation.
+
+Examples:
+
+- I should succeed.
+- I must be accepted.
+- I am this kind of person.
+
+Ego Story determines:
+
+**How I interpret myself.**
+
+---
+
+### 9. Consciousness
+
+Current hypothesis:
+
+A function responsible for
+
+- Observation
+- Comparison
+- Abstraction
+- Pattern detection
+- World-model construction
+
+Consciousness is not the world model itself.
+
+It is the process that refines and expands it.
+
+---
+
+## Development Process Hypothesis
+
+The current model proposes the following process:
+
+Experience
+
+↓
+
+Memory
+
+↓
+
+Comparison
+
+↓
+
+Pattern Detection
+
+↓
+
+Abstraction
+
+↓
+
+World Model Formation
+
+↓
 
 Prediction
 
@@ -76,111 +200,65 @@ Action
 
 ↓
 
-Result
-
-↓
-
-Error
-
-↓
-
 Feedback
 
 ↓
 
-Update
+Neural Circuit Modification
 
 ↓
 
-Prediction
-
-Bosatsu Model assumes that cognition, learning, behavior, maturity, and adaptation emerge through recursive feedback loops.
+World Model Update
 
 ---
 
 ## What the Model Attempts to Explain
 
-The model currently attempts to explain:
+Bosatsu Model currently explores a common structural explanation for:
 
 - Learning
 - Emotion
+- Motivation
+- Identity
 - Ego
 - Trauma
 - Dissociation
 - Flow States
-- Codependency
-- Victim Mentality
 - Maturity
 - Wisdom
 - Compassion
 - Awakening
-
-using a common structural framework.
+- Adaptive Intelligence
 
 ---
 
-## Human Understanding and AI
+## AI Implementation
 
-Bosatsu Model has two complementary goals.
-
-### Human Understanding
-
-To provide a structural model for understanding:
-
-- Cognition
-- Behavior
-- Maturity
-- Psychological Adaptation
-
-### AI Implementation
-
-To explore whether the same architecture can be applied to:
+Bosatsu Model is designed not only as a human understanding framework but also as a possible architecture for:
 
 - AI Agents
 - NPCs
-- Personality Simulation
-- Embodied AI
-- Adaptive Cognitive Systems
+- Cognitive Simulations
+- Adaptive Systems
+- Artificial Personalities
+
+One long-term objective is to investigate whether the model can be implemented as an operational cognitive architecture.
 
 ---
 
 ## Project Status
 
-Current Status:
+Current Version:
 
-**Draft Specification v1.0**
+**Bosatsu Model v1.1 Working Hypothesis**
 
-The model continues to evolve through:
+Recent additions include:
 
-- Observation
-- Analysis
-- Discussion
-- Implementation
-- Feedback
-
----
-
-## Documentation
-
-### Japanese
-
-- README_JA.md
-- docs/Bosatsu_Model_JA.md
-
-### English
-
-- README_EN.md
-- docs/Bosatsu_Model_EN.md
-
----
-
-## Origin
-
-Bosatsu Model originated as a personal research project conducted independently through introspection, observation, and recursive analysis.
-
-The author is not affiliated with any academic institution and presents this project as a working hypothesis rather than a final theory.
-
-Contributions, criticism, testing, and further development are welcome.
+- Memory vs World Model distinction
+- Abstraction hypothesis
+- Balance hypothesis
+- Ego Function vs Ego Story distinction
+- Consciousness as a world-model construction process
 
 ---
 
@@ -188,11 +266,36 @@ Contributions, criticism, testing, and further development are welcome.
 
 Current unresolved questions include:
 
-- What determines dynamic weighting?
+- What determines activity allocation?
 - What is the minimum unit of a neural circuit?
-- What is the internal structure of a world model?
-- Is the four-component architecture sufficient?
-- Can the model be successfully implemented in AI systems?
+- How are emotions generated?
+- What is the boundary between consciousness and the world model?
+- Can synchronicity-like phenomena be explained structurally?
+- Can the architecture be successfully implemented in AI systems?
+
+---
+
+## Documentation
+
+### English
+
+- README_EN.md
+- docs/Bosatsu_Model_EN.md
+
+### Japanese
+
+- README_JA.md
+- docs/Bosatsu_Model_JA.md
+
+---
+
+## Origin
+
+Bosatsu Model originated as an independent research project developed through observation, introspection, recursive analysis, and AI-assisted exploration.
+
+The model is published as a working hypothesis for understanding cognition, adaptation, and intelligent behavior.
+
+Contributions, criticism, implementation experiments, and further development are welcome.
 
 ---
 
