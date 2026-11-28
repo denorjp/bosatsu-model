@@ -22,6 +22,9 @@ The project is based on:
 - Recursive analysis
 - AI-assisted model refinement
 
+<IMG SRC="images/balances.jpg" width=400>
+Created with Grok
+
 ---
 
 ## Core Concepts
