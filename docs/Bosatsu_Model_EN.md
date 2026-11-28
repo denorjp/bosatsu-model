@@ -1,53 +1,49 @@
-# Bosatsu Model v1.1
+# Bosatsu Model v1.2
 
 # Working Hypothesis Specification
 
-## Introduction
+---
 
-Bosatsu Model is a hypothetical cognitive architecture designed to explain:
+# Introduction
 
-- Cognition
-- Learning
-- Adaptation
-- Maturity
-- Wisdom
-- Compassion
-
-through a common structural framework.
+Bosatsu Model is an observation-based working hypothesis for understanding human cognition, emotion, learning, adaptation, identity, personality, and intelligent behavior through a unified structural framework.
 
 The model was developed through:
 
+- Observation
 - Introspection
 - Meditation
-- Observation of flow states
-- Recursive self-analysis
+- Recursive analysis
 - AI-assisted structural exploration
 
 Bosatsu Model is not an established scientific theory.
 
-It is a working hypothesis intended for continuous observation, discussion, implementation, and refinement.
+It is a working hypothesis intended for:
+
+- Observation
+- Discussion
+- Experimentation
+- Implementation
+- Validation
+- Refinement
 
 ---
 
 # Purpose
 
-The purpose of Bosatsu Model is to identify a minimal set of components capable of explaining human cognition and behavior through a unified structure.
+The purpose of Bosatsu Model is to identify a minimal set of concepts capable of explaining:
 
-The model attempts to explain:
-
-- Learning
+- Cognition
 - Emotion
 - Motivation
-- Ego
-- Suffering
-- Maturity
+- Learning
+- Personality
+- Identity
+- Adaptation
 - Wisdom
-- Compassion
-- Flow States
-- Awakening
-- Adaptive Intelligence
+- Human Behavior
 
-using a common architecture.
+through a unified framework.
 
 ---
 
@@ -55,9 +51,8 @@ using a common architecture.
 
 Humans do not directly perceive reality itself.
 
-Humans perceive a world model constructed through neural circuits.
+Humans perceive a world constructed through neural circuits.
 
-```text
 Reality
 
 ↓
@@ -66,265 +61,244 @@ Sensory Input
 
 ↓
 
-Neural Circuits
+Neural Circuit Network
 
 ↓
 
-World Model
+Life Maintenance / Ego / Consciousness
+
+↓
+
+Balances
+
+↓
+
+Attention
 
 ↓
 
 Perception
-```
 
-Therefore,
-
-what humans perceive is not reality itself,
-
-but reality interpreted through a world model.
+Therefore, what humans perceive is not reality itself, but reality filtered through neural circuits and balances.
 
 ---
 
-# Version 1.1 Hypothesis
+# Core Hypothesis
 
-Bosatsu Model currently proposes the following major components:
+Bosatsu Model proposes:
 
-- Life Maintenance System
-- Neural Circuits
-- Memory
-- World Model
-- Balance
-- Activity Allocation
-- Ego Function
-- Ego Story
-- Consciousness
+**Humans are dynamic feedback systems in which countless balances continuously fluctuate.**
+
+Life Maintenance, Ego, and Consciousness continuously generate balances.
+
+Balances influence:
+
+- Attention
+- Perception
+- Emotion
+- Thought
+- Learning
+- Action
+
+Humans continuously regulate, respond to, and learn from these balances throughout life.
 
 ---
 
 # Component 1
 
-# Life Maintenance System
+# Neural Circuit Network
 
 ## Definition
 
-The Life Maintenance System is the foundational system responsible for:
+The Neural Circuit Network is the foundational structure through which humans experience the world.
 
-- Survival
-- Safety
-- Recovery
-- Continuity
+Neural circuits are formed through:
+
+- Experience
+- Repetition
+- Feedback
+- Learning
+
+In Bosatsu Model, neural circuits are not limited to biological neural structures.
+
+They are a modeling abstraction representing:
+
+- Knowledge
+- Skills
+- Habits
+- Reactions
+- Behavioral patterns
+- Cognitive patterns
 
 ---
 
-## Primary Functions
+## Learning
 
-- Survival
-- Protection
-- Recovery
-- Continuation
+Learning is defined as:
 
----
+**Neural Circuit Addition and Modification**
 
-## Characteristics
+Learning occurs whenever experience causes:
 
-When life maintenance becomes dominant:
+- New connections
+- Stronger connections
+- Weaker connections
+- Structural changes
 
-- Perception narrows
-- Defensive behavior increases
-- Empathy decreases
-- Long-term thinking decreases
-
-These reactions are considered adaptive rather than pathological.
+within the neural circuit network.
 
 ---
 
 # Component 2
 
-# Neural Circuits
+# Life Maintenance
 
 ## Definition
 
-Neural Circuits are learned reaction patterns formed through experience and learning.
-
-In Bosatsu Model, the term does not necessarily refer to biological neural structures.
-
-It is used as a modeling abstraction representing:
-
-- Knowledge
-- Skills
-- Reactions
-- Behavioral patterns
+Life Maintenance is a functional label assigned to neural circuits related to survival and physical continuity.
 
 ---
 
-## Sources of Formation
+## Primary Roles
 
-- Experience
-- Learning
-- Habit
-- Emotion
-- Reinforcement
-- Trauma
-- Repetition
+- Survival
+- Safety
+- Recovery
+- Rest
+- Nutrition
+- Physical Well-being
 
 ---
 
-## Role
+## Examples of Life Maintenance Balances
 
-Neural Circuits determine:
-
-**What can be done.**
+- Hunger
+- Fatigue
+- Pain
+- Danger avoidance
+- Need for rest
+- Need for shelter
 
 ---
 
 # Component 3
 
-# Memory
+# Ego
 
 ## Definition
 
-Memory represents stored individual experiences.
-
-Memory is concrete.
-
-Memory is an instance.
+Ego is a functional label assigned to neural circuits related to self-identity within a social environment.
 
 ---
 
-## Examples
+## Primary Roles
 
-- Seeing a corn plant in a supermarket
-- Seeing a corn plant in a field
-- A conversation yesterday
-- A specific event
+- Self-image
+- Belonging
+- Recognition
+- Reputation
+- Status
+- Social identity
 
 ---
 
-## Characteristics
+## Examples of Ego Balances
 
-Memory is specific.
-
-Memory is not an abstraction.
-
-Memory is different from the World Model.
+- Desire for approval
+- Fear of rejection
+- Desire for recognition
+- Desire to succeed
+- Protecting self-image
 
 ---
 
 # Component 4
 
-# World Model
+# Consciousness
 
 ## Definition
 
-A World Model is an abstract conceptual network constructed from memories.
+Consciousness is a functional label assigned to neural circuits involved in:
 
-The World Model is used for:
+- Observation
+- Pattern discovery
+- Comparison
+- Abstraction
+- Understanding
+- Exploration
+- World-model expansion
 
-- Recognition
-- Interpretation
-- Prediction
-- Simulation
-- Decision-making
+Consciousness is not the world model itself.
 
----
-
-## Difference Between Memory and World Model
-
-Memory is concrete.
-
-World Model is abstract.
-
-Example:
-
-```text
-Corn A
-
-Corn B
-
-Corn C
-
-↓
-
-Common Pattern Detection
-
-↓
-
-Concept of Corn
-```
-
-This process creates an abstract concept within the World Model.
-
----
-
-## Role
-
-The World Model determines:
-
-- What can be perceived
-- What can be predicted
+Consciousness is the process that discovers, updates, and expands models.
 
 ---
 
 # Component 5
 
-# Balance
+# Countless Balances
 
 ## Definition
 
-Balance is a balance-restoration demand circuit.
+A Balance represents:
 
-It is not the problem itself.
+- Degree of concern
+- Importance
+- Attention bias
+- Motivational tension
+- What currently matters
 
-It is the tendency to resolve the problem.
+Balances are generated by:
+
+- Life Maintenance
+- Ego
+- Consciousness
 
 ---
 
 ## Examples
 
-```text
-Hunger
+### Life Maintenance
 
-↓
+- Hunger
+- Fatigue
+- Safety
 
-Need to eat
-```
+### Ego
 
-```text
-Unfinished task
+- Status
+- Recognition
+- Belonging
 
-↓
+### Consciousness
 
-Need to complete
-```
-
-```text
-Loneliness
-
-↓
-
-Need for connection
-```
+- Curiosity
+- Understanding
+- Creativity
+- Exploration
 
 ---
 
 ## Characteristics
 
-Balance may be:
+Balances:
 
-- Conscious
-- Unconscious
+- May be conscious
+- May be unconscious
+- Continuously fluctuate
+- Rarely disappear completely
 
-Unconscious balances may function as hidden motivations.
+Humans simultaneously possess countless balances.
 
 ---
 
-## Hypothesis
+## Important Note
 
-The magnitude of imbalance influences motivational strength.
+Balances are not defined as differences between reality and an ideal state.
 
-The stronger the imbalance,
+Instead, balances represent:
 
-the more activity tends to be allocated toward resolution.
+"What currently matters."
 
 ---
 
@@ -334,380 +308,194 @@ the more activity tends to be allocated toward resolution.
 
 ## Definition
 
-Activity Allocation represents the amount of resources allocated to neural circuits.
+Activity Allocation represents the finite amount of resources available to a person.
 
----
-
-## Resources May Include
+Examples include:
 
 - Attention
+- Thought
 - Time
-- Mental effort
-- Physical effort
-- Cognitive processing
+- Effort
+- Action
+- Learning
 
 ---
 
-## Role
+## Finite Activity Hypothesis
 
-Activity Allocation determines:
+Activity is finite.
 
-**What is processed now.**
+Humans cannot process everything simultaneously.
+
+Balances compete for activity allocation.
+
+The stronger a balance becomes,
+
+the more activity tends to flow toward it.
 
 ---
+
+## Consequences
+
+Finite activity explains:
+
+- Attention
+- Focus
+- Prioritization
+- Cognitive overload
+- Decision making
+
+Humans make decisions partly because activity and time are limited.
+
+---
+
+# Attention and Perception
 
 ## Hypothesis
 
-Possible sources of Activity Allocation include:
+Bosatsu Model proposes:
 
-- Life Maintenance System
-- Ego
-- Consciousness
-
-This remains unresolved.
-
----
-
-# Component 7
-
-# Ego Function
-
-## Definition
-
-Ego Function is the mechanism responsible for self-identification.
-
-Ego Function is necessary for maintaining an individual identity.
-
-It is distinct from Ego Story.
-
----
-
-## Contents
-
-- Name
-- Personal history
-- Preferences
-- Characteristics
-- Skills
-- Behavioral tendencies
-- Reaction tendencies
-
----
-
-## Characteristics
-
-Ego Function maintains continuity of self.
-
-Ego Function may remain stable even when Ego Story changes significantly.
-
----
-
-## Examples
-
-```text
-I am John.
-
-I like motorcycles.
-
-I enjoy programming.
-
-I tend to think visually.
-```
-
-These are examples of Ego Function rather than Ego Story.
-
----
-
-# Component 8
-
-# Ego Story
-
-## Definition
-
-Ego Story is a self-interpretation model formed through adaptation to the environment.
-
----
-
-## Roles
-
-- Consistency maintenance
-- Social adaptation
-- Self-explanation
-- Cognitive load reduction
-
----
-
-## Examples
-
-```text
-I must succeed.
-
-I should be accepted.
-
-I must not fail.
-
-I am this kind of person.
-```
-
----
-
-## Characteristics
-
-Ego Story prioritizes consistency over truth.
-
----
-
-## Hypothesis
-
-Ego Story may be viewed as a World Model about oneself.
-
-```text
-World Model
-=
-Abstraction of reality
-
-Ego Story
-=
-Abstraction of self
-```
-
----
-
-## Relationship to Suffering
-
-Many forms of suffering originate not from Ego Function,
-
-but from excessive identification with Ego Story.
-
----
-
-# Component 9
-
-# Consciousness
-
-## Definition
-
-Current hypothesis:
-
-Consciousness is the function responsible for:
-
-- Observation
-- Comparison
-- Abstraction
-- Pattern Detection
-- World-Model Construction
-
----
-
-## Difference Between Consciousness and World Model
-
-The World Model is knowledge.
-
-Consciousness is not knowledge itself.
-
-```text
-World Model
-=
-Abstracted knowledge
-
-Consciousness
-=
-The process that compares,
-discovers structure,
-and updates knowledge
-```
-
----
-
-## Characteristics
-
-Consciousness appears to discover structures rather than merely store information.
-
----
-
-## Hypothesis
-
-In some cases,
-
-a direction or insight may emerge before explicit reasoning becomes available.
-
-```text
-Direction
+Balance
 
 ↓
 
-Explanation
-```
-
-rather than
-
-```text
-Explanation
+Attention
 
 ↓
 
-Direction
-```
+Perception
 
-may occur.
+rather than:
 
---
-# World Model Formation Hypothesis
-
-## Fundamental Process
-
-Bosatsu Model proposes that World Models are formed through the following process:
-
-```text
-Experience
+Perception
 
 ↓
 
-Memory
-
-↓
-
-Comparison
-
-↓
-
-Pattern Detection
-
-↓
-
-Abstraction
-
-↓
-
-World Model Formation
-```
+Evaluation
 
 ---
 
-## Abstraction
+## Explanation
 
-Abstraction is the extraction of common structures from multiple memories.
+Balances influence what becomes noticeable.
+
+A strongly activated balance directs activity toward information relevant to its resolution.
 
 ---
 
 ## Example
 
-```text
-Corn seen in a supermarket
-
-Corn seen in a field
-
-Steamed corn
+No place to sleep tonight
 
 ↓
 
-Common Structure Detection
+Life Maintenance Balance
 
 ↓
 
-Formation of the Concept "Corn"
-```
+Attention Bias
+
+↓
+
+Hotels become noticeable
+
+Tourist information centers become noticeable
+
+Accommodation signs become noticeable
 
 ---
 
-## Characteristics
+## Conclusion
 
-Learning is not only the discovery of differences.
+Humans do not perceive the same world.
 
-Abstraction also emerges from recognizing sameness.
-
-```text
-Difference
-
-↓
-
-Learning
-
-Sameness
-
-↓
-
-Abstraction
-```
+Humans perceive the world through different balances.
 
 ---
 
-# Prediction Hypothesis
+# Emotion
 
 ## Definition
 
-Prediction is the ability to estimate future outcomes using the World Model.
+Emotion is not the primary cause of behavior.
+
+Emotion is a notification generated by balances.
 
 ---
 
-## Characteristics
+## Examples
 
-Predictions are not generated directly from memories.
-
-Predictions are generated from abstract concepts contained within the World Model.
-
----
-
-## Example
-
-```text
-This resembles corn
-
-↓
-
-Probably edible
-
-↓
-
-Probably sweet
-
-↓
-
-Probably grown in a field
-```
+- Anxiety
+- Anger
+- Sadness
+- Joy
+- Curiosity
+- Excitement
 
 ---
 
-## Relationship to Imagination
+## Relationship
 
-Imagination and creativity may be interpreted as the recombination of structures contained within the World Model.
+Balance
+
+↓
+
+Emotion Notification
+
+↓
+
+Attention / Action
+
+Balance is primary.
+
+Emotion is notification.
 
 ---
 
-# Fundamental Loop
+# Thinking
 
-The core of Bosatsu Model is a recursive learning loop.
+## Definition
 
-```text
-Experience
+Thinking is activity allocated toward internal neural circuits.
 
-↓
+Examples:
 
-Memory
+- Reflection
+- Planning
+- Simulation
+- Imagination
+- Internal dialogue
 
-↓
+Thinking is not fundamentally separate from action.
 
-Comparison
+Only the destination of activity differs.
 
-↓
+---
 
-Abstraction
+# Action
 
-↓
+## Definition
 
-World Model
+Action occurs when activity allocation reaches neural circuits capable of producing behavior.
 
-↓
+Actions may be:
 
-Prediction
+- Physical
+- Social
+- Verbal
+- Cognitive
 
-↓
+---
+
+# Learning
+
+## Definition
+
+Learning and execution are not separate systems.
+
+Both are part of the same feedback loop.
 
 Action
-
-↓
-
-Result
 
 ↓
 
@@ -715,288 +503,127 @@ Feedback
 
 ↓
 
-Neural Circuit Transformation
+Neural Circuit Modification
 
 ↓
 
-World Model Update
+Future Action
+
+---
+
+# Unified Feedback Loop
+
+The central loop of Bosatsu Model is:
+
+Neural Circuit Network
 
 ↓
 
-Re-Prediction
-```
+Life Maintenance / Ego / Consciousness
+
+↓
+
+Countless Balances
+
+↓
+
+Activity Allocation
+
+↓
+
+Thought / Action
+
+↓
+
+Feedback
+
+↓
+
+Neural Circuit Addition & Modification
+
+↓
+
+Updated Balances
 
 ---
 
-# Emotion Hypothesis (Tentative)
+# Prediction
 
-## Definition
+## Position in Ver.1.2
 
-Emotion remains an unresolved area of the model.
+Bosatsu Model does not treat prediction as a foundational concept.
 
-Current observations suggest that multiple sources may exist.
+Humans may perform predictive processing through neural circuits.
+
+Examples include:
+
+- Estimating where a ball will land
+- Predicting conversational flow
+- Motor coordination
+- Environmental anticipation
+
+Such predictive functions may exist within neural circuits.
+
+However, prediction is not considered a primary explanatory principle of Version 1.2.
+
+The primary concepts are:
+
+- Balances
+- Activity Allocation
+- Feedback Loops
+- Neural Circuit Modification
+
+Prediction may be incorporated in future versions if necessary.
 
 ---
 
-## Sensation-Based Emotions
+# Personality and Ego Story
+
+## Personality
+
+Personality is not treated as a fixed entity.
+
+Personality emerges from accumulated neural circuits and experiences.
+
+---
+
+## Ego Story
+
+Ego Story is an evolving self-narrative formed through repeated experience and adaptation.
 
 Examples:
 
-```text
-Startle
+- I am this kind of person.
+- I should succeed.
+- I must not fail.
+
+Ego Story continuously changes through feedback and experience.
+
+---
+
+# Observation Feedback Loop
+
+Bosatsu Model itself emerged through observation.
+
+Observation
 
 ↓
 
-Surprise
-
-Excitement
+Pattern Discovery
 
 ↓
 
-Joy
-
-Crying
+Abstraction
 
 ↓
 
-Sadness
-```
-
----
-
-## Ego Story-Based Emotions
-
-Examples:
-
-```text
-Frustration
-
-Shame
-
-Loneliness
-
-Jealousy
-```
-
----
-
-## Consciousness-Related Emotional States
-
-Examples:
-
-```text
-Awe
-
-Wonder
-
-Inspiration
-
-Beauty
-
-Deep Emotion
-```
-
----
-
-## Current Status
-
-The Emotion Hypothesis is incomplete in Version 1.1.
-
----
-
-# Metacognition
-
-## Definition
-
-Metacognition is the ability to observe one's own neural circuits and ego narratives.
-
----
-
-## Example
-
-```text
-I am a failure
+Model Update
 
 ↓
 
-The thought
-"I am a failure"
-is occurring
-```
+Further Observation
 
----
-
-# Maturity
-
-## Definition
-
-Maturity is the ability to update a World Model when it is incorrect.
-
----
-
-```text
-Maturity
-
-≠
-
-Fixation
-
-Maturity
-
-=
-
-Capacity for Updating
-```
-
----
-
-# Wisdom
-
-## Definition
-
-Wisdom is the ability to perceive structures and discover more appropriate directions.
-
----
-
-## Hypothesis
-
-Wisdom is not primarily knowledge.
-
-Wisdom is closer to structural recognition.
-
----
-
-# Compassion
-
-## Definition
-
-Compassion is not primarily an emotion.
-
-Compassion is the expansion of the range of entities included within one's benefit function.
-
-```text
-Self
-
-↓
-
-Family
-
-↓
-
-Community
-
-↓
-
-Society
-
-↓
-
-Humanity
-
-↓
-
-Life as a Whole
-```
-
----
-
-# Strength (Riki)
-
-## Definition
-
-Strength is not willpower.
-
-Strength is efficient action that emerges when internal conflict decreases.
-
----
-
-# Flow States
-
-## Hypothesis
-
-Flow States occur when Ego Story activity decreases and Consciousness operates in smooth coordination with learned neural circuits.
-
----
-
-```text
-Reduced Ego Story Activity
-
-↓
-
-Consciousness Dominance
-
-↓
-
-Activation of Skilled Circuits
-
-↓
-
-Flow State
-```
-
----
-
-# Awakening
-
-## Stage One
-
-Relativization of Ego Story.
-
-```text
-Ego Story
-
-≠
-
-Reality
-```
-
-The individual understands that personal narratives are interpretations rather than reality itself.
-
----
-
-## Stage Two
-
-Integration of previously unresolved sensations and emotions.
-
-```text
-Sensation Recovery
-
-↓
-
-Emotion Recovery
-
-↓
-
-Meaning Formation
-
-↓
-
-World Model Update
-
-↓
-
-World Model Expansion
-```
-
----
-
-# Synchronicity
-
-## Current Status
-
-Synchronicity remains an unresolved area within Bosatsu Model.
-
----
-
-## Open Questions
-
-Does prediction depend solely on an individual's World Model?
-
-Do unknown forms of sensory input exist?
-
-Can interaction with other people or the environment influence prediction in ways not yet understood?
-
-Currently, these questions remain unanswered.
+The model itself is considered a product of an observation feedback loop.
 
 ---
 
@@ -1006,93 +633,71 @@ Bosatsu Model may be applicable to:
 
 - AI Agents
 - NPCs
-- Personality Simulation
-- Adaptive Cognitive Systems
+- Personality Simulations
+- Adaptive Systems
+- Cognitive Architectures
 
----
+A long-term research direction is investigating whether:
 
-## Possible Mapping
+- Countless Balances
+- Finite Activity Allocation
+- Neural Circuit Addition & Modification
 
-```text
-Life Maintenance System
-↓
-Objective Function
-
-Neural Circuits
-↓
-Learned Modules
-
-Memory
-↓
-Episodic Memory
-
-World Model
-↓
-Conceptual Network
-
-Balance
-↓
-Priority Generation
-
-Activity Allocation
-↓
-Resource Allocation
-
-Ego Function
-↓
-Self Identification
-
-Ego Story
-↓
-Self Narrative
-
-Consciousness
-↓
-World Model Construction and Update
-```
+can produce adaptive human-like behavior.
 
 ---
 
 # Open Questions
 
-The following topics remain unresolved:
+Current unresolved topics include:
 
-- Activity Allocation mechanisms
-- Minimum unit of a Neural Circuit
-- Emotion generation mechanisms
-- Internal structure of the World Model
-- Boundary between Consciousness and World Model
-- Synchronicity hypothesis
-- Feasibility of AI implementation
+- Internal structure of consciousness
+- Formation of Ego Story
+- Relationships between balances
+- Large-scale and small-scale balance hierarchies
+- Emergence of personality
+- AI implementation architecture
 
 ---
 
 # Revision Policy
 
-Bosatsu Model itself is considered a World Model.
+Bosatsu Model is itself considered a model subject to update.
 
-Therefore, the model is expected to evolve through:
-
-```text
-Prediction
-
-↓
+The intended revision process is:
 
 Observation
 
 ↓
 
-Error
+Pattern Discovery
 
 ↓
 
-Update
-```
+Abstraction
+
+↓
+
+Model Update
+
+↓
+
+Further Observation
 
 Continuous revision is an intended feature of the model.
 
 ---
 
-Bosatsu Model v1.1
+# Core Statement
+
+Humans are dynamic feedback systems in which countless balances continuously fluctuate.
+
+Life Maintenance, Ego, and Consciousness generate balances that influence attention, perception, emotion, thought, learning, and action.
+
+Humans continuously learn, adapt, and change through the interaction of balances, finite activity allocation, feedback loops, and neural circuit modification.
+
+---
+
+Bosatsu Model v1.2
 
 Working Hypothesis Specification
