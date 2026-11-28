@@ -1,240 +1,312 @@
-## Bosatsu Model
+# Bosatsu Model
 
-A Working Hypothesis for Human Cognition, Learning, Adaptive Intelligence, and World-Model Formation
+## A Working Hypothesis of Human Cognition as a Dynamic Balance Feedback System
 
-### Overview
+Bosatsu Model is an observation-based working hypothesis for understanding human cognition, emotion, learning, adaptation, identity, and intelligent behavior.
 
-Bosatsu Model is a cognitive architecture hypothesis developed through first-person observation, introspection, meditation, flow-state observation, recursive analysis, and AI-assisted model refinement.
+The model proposes that humans are not primarily prediction-driven systems.
 
-The model attempts to explain how humans:
+Instead, humans are dynamic feedback systems in which countless internal balances continuously fluctuate and interact.
 
-- Learn
-- Construct internal world models
-- Develop identity
-- Adapt to their environment
-- Experience growth, suffering, wisdom, and maturity
+Attention, perception, emotion, thought, learning, and action emerge through the interaction of:
 
-using a small number of interconnected components.
+- Neural Circuit Networks
+- Life Maintenance
+- Ego
+- Consciousness
+- Countless Balances
+- Activity Allocation
+- Feedback Loops
 
 Bosatsu Model is not an established scientific theory.
 
-It is a working hypothesis intended for discussion, experimentation, implementation, and refinement.
+It is a working hypothesis intended for:
+
+- Discussion
+- Experimentation
+- AI Implementation
+- Validation
+- Refinement
 
 ---
 
-## Core Components (Ver.1.1)
+# Core Perspective
 
-The current model proposes the following primary components:
+Humans are dynamic feedback systems.
 
-### 1. Life Maintenance System
+Life Maintenance, Ego, and Consciousness continuously evaluate the world and generate countless balances.
 
-Responsible for:
+A balance represents:
+
+- Degree of concern
+- Attention bias
+- Importance
+- Motivational tension
+
+Balances continuously fluctuate throughout life.
+
+Humans do not eliminate them.
+
+Humans continuously respond to them, learn from them, and change through them.
+
+---
+
+# Primary Components (Ver.1.2)
+
+## 1. Neural Circuit Network
+
+The fundamental structure through which humans experience the world.
+
+Neural circuits are continuously:
+
+- Created
+- Modified
+- Strengthened
+- Associated
+
+through experience and feedback.
+
+Learning is defined as:
+
+**Neural Circuit Addition and Modification**
+
+---
+
+## 2. Life Maintenance
+
+A functional label for neural circuits related to:
 
 - Survival
 - Safety
+- Physical well-being
+- Rest
+- Nutrition
 - Recovery
-- Continuity
-
-This is the foundational layer that supports all higher functions.
 
 ---
 
-### 2. Neural Circuits
+## 3. Ego
 
-Patterns formed through:
+A functional label for neural circuits related to:
 
-- Experience
-- Learning
-- Repetition
-- Feedback
-
-Neural circuits determine:
-
-**What can be done.**
-
----
-
-### 3. Memory
-
-Stores concrete experiences and events.
-
-Examples:
-
-- A specific conversation
-- A specific place
-- A specific experience
-
-Memory represents:
-
-**Individual instances.**
-
----
-
-### 4. World Model
-
-An abstracted internal model constructed from memories.
-
-Used for:
-
+- Social identity
+- Belonging
+- Reputation
+- Status
 - Recognition
-- Interpretation
-- Prediction
-- Simulation
-- Decision-making
-
-World Model determines:
-
-**What can be perceived and predicted.**
+- Self-image
 
 ---
 
-### 5. Balance (Formerly Dynamic Weighting)
+## 4. Consciousness
 
-The model proposes that cognition is driven by the emergence of imbalances.
-
-An imbalance creates a persistent tendency toward resolution.
-
-Balance determines:
-
-**What becomes important now.**
-
----
-
-### 6. Activity Allocation
-
-Represents the amount of attention, effort, time, and cognitive resources allocated toward neural circuits.
-
-Activity Allocation determines:
-
-**What is actively processed.**
-
----
-
-### 7. Ego Function
-
-Responsible for:
-
-- Self-identification
-- Personal continuity
-- Individual characteristics
-
-Examples:
-
-- My name
-- My preferences
-- My personal history
-
-Ego Function determines:
-
-**Who I am as an individual.**
-
----
-
-### 8. Ego Story
-
-A self-narrative constructed through adaptation.
-
-Examples:
-
-- I should succeed.
-- I must be accepted.
-- I am this kind of person.
-
-Ego Story determines:
-
-**How I interpret myself.**
-
----
-
-### 9. Consciousness
-
-Current hypothesis:
-
-A function responsible for
+A functional label for neural circuits related to:
 
 - Observation
+- Pattern discovery
 - Comparison
 - Abstraction
-- Pattern detection
-- World-model construction
+- Understanding
+- Exploration
+- World-model expansion
 
 Consciousness is not the world model itself.
 
-It is the process that refines and expands it.
+It is the process that continuously expands and updates it.
 
 ---
 
-## Development Process Hypothesis
+## 5. Countless Balances
 
-The current model proposes the following process:
+The central concept of Ver.1.2.
 
-Experience
+A balance represents:
 
+- Concern
+- Importance
+- Attention bias
+- What currently matters
+
+Examples:
+
+- Hunger
+- Fatigue
+- Curiosity
+- Anxiety
+- Recognition seeking
+- Future aspirations
+- Desire to understand
+
+Humans possess countless balances simultaneously.
+
+Some are conscious.
+
+Many remain unconscious.
+
+Balances fluctuate rather than disappear.
+
+---
+
+## 6. Activity Allocation
+
+Activity is finite.
+
+Humans cannot process everything simultaneously.
+
+Activity is allocated toward:
+
+- Balances
+- Thoughts
+- Actions
+- Observation
+- Neural circuit formation
+
+This finiteness explains:
+
+- Attention
+- Focus
+- Prioritization
+- Decision making
+
+---
+
+## 7. Emotion
+
+Emotions are not primary causes.
+
+Emotions are notifications generated by balances.
+
+Examples include:
+
+- Anxiety
+- Anger
+- Sadness
+- Joy
+- Curiosity
+- Excitement
+
+Balance is primary.
+
+Emotion is the notification.
+
+---
+
+# Attention and Perception
+
+Bosatsu Model proposes:
+
+Balance
 ↓
-
-Memory
-
+Attention
 ↓
+Perception
 
-Comparison
+rather than:
 
+Perception
 ↓
+Evaluation
 
-Pattern Detection
+A strongly activated balance directs activity toward information relevant to its resolution.
 
+Example:
+
+When a person realizes they may have nowhere to sleep for the night,
+
+hotels, accommodations, information centers, and related resources suddenly become noticeable.
+
+Balances therefore influence perception itself.
+
+People do not perceive the same world.
+
+They perceive the world through different balances.
+
+---
+
+# Unified Feedback Loop
+
+Countless Balances
 ↓
-
-Abstraction
-
+Activity Allocation
 ↓
-
-World Model Formation
-
+Thought / Action
 ↓
-
-Prediction
-
-↓
-
-Action
-
-↓
-
 Feedback
-
 ↓
-
-Neural Circuit Modification
-
+Neural Circuit Addition & Modification
 ↓
+Updated Balances
 
-World Model Update
+Thinking, action, and learning are not separate systems.
+
+They are different manifestations of the same feedback loop.
 
 ---
 
-## What the Model Attempts to Explain
+# Prediction
 
-Bosatsu Model currently explores a common structural explanation for:
+Bosatsu Model does not currently treat prediction as a foundational concept.
 
-- Learning
+Humans may perform predictive processing through neural circuits.
+
+Examples include:
+
+- Estimating the path of a moving object
+- Anticipating conversation flow
+- Motor coordination
+
+However, Ver.1.2 focuses primarily on:
+
+- Balances
+- Activity Allocation
+- Feedback Loops
+- Neural Circuit Modification
+
+Prediction may be incorporated in future versions when necessary.
+
+---
+
+# Observation Feedback Loop
+
+Bosatsu Model itself emerged through:
+
+Observation
+↓
+Pattern Discovery
+↓
+Abstraction
+↓
+Model Update
+↓
+Further Observation
+
+The model is therefore considered a product of an observation feedback loop.
+
+---
+
+# What the Model Attempts to Explain
+
+The current model explores a unified structural explanation for:
+
+- Cognition
+- Attention
 - Emotion
 - Motivation
+- Learning
 - Identity
-- Ego
+- Personality
 - Trauma
 - Dissociation
 - Flow States
-- Maturity
 - Wisdom
-- Compassion
-- Awakening
-- Adaptive Intelligence
+- Adaptation
+- Human Behavior
 
 ---
 
-## AI Implementation
+# AI Implementation
 
-Bosatsu Model is designed not only as a human understanding framework but also as a possible architecture for:
+One objective of Bosatsu Model is to explore whether a similar architecture can be implemented in:
 
 - AI Agents
 - NPCs
@@ -242,64 +314,29 @@ Bosatsu Model is designed not only as a human understanding framework but also a
 - Adaptive Systems
 - Artificial Personalities
 
-One long-term objective is to investigate whether the model can be implemented as an operational cognitive architecture.
+The long-term goal is to investigate whether countless balances, finite activity allocation, and feedback-driven neural circuit modification can produce human-like adaptive behavior.
 
 ---
 
-## Project Status
+# Version
 
 Current Version:
 
-**Bosatsu Model v1.1 Working Hypothesis**
-
-Recent additions include:
-
-- Memory vs World Model distinction
-- Abstraction hypothesis
-- Balance hypothesis
-- Ego Function vs Ego Story distinction
-- Consciousness as a world-model construction process
+**Bosatsu Model v1.2 Working Hypothesis**
 
 ---
 
-## Open Questions
+# Core Statement
 
-Current unresolved questions include:
+Humans are dynamic feedback systems in which countless balances continuously fluctuate.
 
-- What determines activity allocation?
-- What is the minimum unit of a neural circuit?
-- How are emotions generated?
-- What is the boundary between consciousness and the world model?
-- Can synchronicity-like phenomena be explained structurally?
-- Can the architecture be successfully implemented in AI systems?
+Life Maintenance, Ego, and Consciousness generate balances that influence attention, perception, emotion, thought, learning, and action.
+
+Humans continuously regulate these balances, learn from them, and change through them throughout life.
 
 ---
 
-## Documentation
-
-### English
-
-- README_EN.md
-- docs/Bosatsu_Model_EN.md
-
-### Japanese
-
-- README_JA.md
-- docs/Bosatsu_Model_JA.md
-
----
-
-## Origin
-
-Bosatsu Model originated as an independent research project developed through observation, introspection, recursive analysis, and AI-assisted exploration.
-
-The model is published as a working hypothesis for understanding cognition, adaptation, and intelligent behavior.
-
-Contributions, criticism, implementation experiments, and further development are welcome.
-
----
-
-## License
+# License
 
 MIT License
 
