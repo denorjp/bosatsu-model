@@ -1,26 +1,8 @@
-## Bosatsu Model
+# Bosatsu Model
 
-Bosatsu Model is a working hypothesis for understanding human cognition, learning, adaptation, world-model formation, and adaptive intelligence.
+Bosatsu Model is an observation-based working hypothesis for understanding human cognition, emotion, learning, adaptation, identity, and intelligent behavior.
 
-The model currently explores the following components:
-
-- Life Maintenance System
-- Neural Circuits
-- Memory
-- World Model
-- Balance
-- Activity Allocation
-- Ego Function
-- Ego Story
-- Consciousness
-
-The project is based on:
-
-- First-person observation
-- Introspection
-- Meditation
-- Recursive analysis
-- AI-assisted model refinement
+The model proposes that humans are dynamic feedback systems in which countless internal balances continuously fluctuate.
 
 Bosatsu Model is not an established scientific theory.
 
@@ -31,6 +13,32 @@ It is a working hypothesis intended for:
 - Implementation
 - Validation
 - Refinement
+
+The project is based on:
+
+- Observation
+- Introspection
+- Meditation
+- Recursive analysis
+- AI-assisted model refinement
+
+---
+
+## Core Concepts
+
+The current model explores:
+
+- Neural Circuit Network
+- Life Maintenance Function
+- Ego Function
+- Consciousness Function
+- Countless Balances
+- Activity Allocation
+- Emotion as Notification
+- Feedback Loops
+- Neural Circuit Modification
+- Ego Story Formation
+- World Model Formation
 
 ---
 
@@ -52,7 +60,7 @@ It is a working hypothesis intended for:
 
 Current Version:
 
-**Bosatsu Model v1.1 Working Hypothesis**
+**Bosatsu Model v1.2 Working Hypothesis**
 
 Status:
 
@@ -66,62 +74,52 @@ Status:
 
 ---
 
-## Major Additions in Ver.1.1
+## Major Additions in Ver.1.2
 
-- Memory vs World Model distinction
-- Abstraction hypothesis
-- Balance hypothesis
-- Activity Allocation concept
-- Ego Function vs Ego Story distinction
-- Consciousness as observation and world-model construction
-- Development process hypothesis
-- Human cognition lifecycle modeling
+- Countless Balances hypothesis
+- Balance as an attention filter
+- Activity Allocation as a central mechanism
+- Emotion as notification
+- Learning and execution unification
+- Neural Circuit Addition and Modification
+- Life Maintenance / Ego / Consciousness as functional labels
+- Observation Feedback Loop hypothesis
+- Finite Activity hypothesis
+- Prediction de-emphasis
 
 ---
 
-## Core Development Process
+## Core Loop
 
-Experience
+Neural Circuit Network
 
-↓
+↓  
 
-Memory
+Life Maintenance / Ego / Consciousness
 
-↓
+↓  
 
-Comparison
+Countless Balances
 
-↓
+↓  
 
-Pattern Detection
+Activity Allocation
 
-↓
+↓  
 
-Abstraction
+Thought / Action
 
-↓
-
-World Model Formation
-
-↓
-
-Prediction
-
-↓
-
-Action
-
-↓
+↓  
 
 Feedback
 
-↓
+↓  
 
-Neural Circuit Modification
+Neural Circuit Addition & Modification
 
-↓
+↓  
 
-World Model Update
+Updated Balances
 
 ---
 
@@ -132,18 +130,18 @@ World Model Update
 To provide a structural framework for understanding:
 
 - Cognition
-- Learning
 - Emotion
 - Motivation
+- Learning
 - Identity
-- Maturity
-- Wisdom
-- Compassion
+- Personality
 - Adaptation
+- Wisdom
+- Human Behavior
 
 ### AI Implementation
 
-To explore whether the same architecture can be applied to:
+To explore whether similar architectures can be applied to:
 
 - AI Agents
 - NPCs
@@ -155,7 +153,7 @@ To explore whether the same architecture can be applied to:
 
 ## Origin
 
-Bosatsu Model originated as an independent research project based on:
+Bosatsu Model originated through:
 
 - Observation
 - Introspection
@@ -163,9 +161,37 @@ Bosatsu Model originated as an independent research project based on:
 - Recursive analysis
 - AI-assisted exploration
 
-The model is published as a working hypothesis for understanding cognition, adaptation, and intelligent behavior.
+The model itself is considered a product of an observation feedback loop.
 
-Contributions, criticism, implementation experiments, and further development are welcome.
+Observation
+
+↓
+
+Pattern Discovery
+
+↓
+
+Abstraction
+
+↓
+
+Model Update
+
+↓
+
+Further Observation
+
+The model remains open to revision, compression, extension, and refinement.
+
+---
+
+## Core Statement
+
+Humans are dynamic feedback systems in which countless balances continuously fluctuate.
+
+Life Maintenance, Ego, and Consciousness generate balances that influence attention, perception, emotion, thought, learning, and action.
+
+Humans continuously regulate these balances, learn from them, and change through them throughout life.
 
 ---
 
